@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tourist Guide Program", "Tourist Guide Program\Tourist Guide Program.vcxproj", "{C9D2164A-1EBA-4978-B3EA-BF013B3686D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D2164A-1EBA-4978-B3EA-BF013B3686D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9D2164A-1EBA-4978-B3EA-BF013B3686D7}.Debug|Win32.Build.0 = Debug|Win32
+		{C9D2164A-1EBA-4978-B3EA-BF013B3686D7}.Release|Win32.ActiveCfg = Release|Win32
+		{C9D2164A-1EBA-4978-B3EA-BF013B3686D7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
